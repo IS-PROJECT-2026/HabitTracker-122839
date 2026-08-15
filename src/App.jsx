@@ -50,7 +50,7 @@ function Toast({ message, type, onClose }) {
   useEffect(() => { const t = setTimeout(onClose, 3000); return () => clearTimeout(t); }, [onClose]);
   const bg = type === "success" ? "#4CAF82" : type === "error" ? "#EF4444" : "#F5A623";
   return (
-    <div style={{ position: "fixed", bottom: 90, left: "50%", transform: "translateX(-50%)", background: bg, color: "#fff", padding: "10px 20px", borderRadius: 30, fontSize: 13, fontWeight: 600, zIndex: 999, animation: "slideUp 0.3s ease", whiteSpace: "nowrap", boxShadow: `0 8px 24px ${bg}55` }}>
+    <div style={{ position: "fixed", bottom: 90, left: "50%", transform: "translateX(-50%)", background: bg, color: "#fff", padding: "10px 20px", borderRadius: 30, fontSize: 15, fontWeight: 600, zIndex: 999, animation: "slideUp 0.3s ease", whiteSpace: "nowrap", boxShadow: `0 8px 24px ${bg}55` }}>
       {message}
     </div>
   );
