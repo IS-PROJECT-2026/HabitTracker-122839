@@ -24,7 +24,7 @@ https://is-project-2026.github.io/HabitTracker-122839/
 | Vite | Development server and build tool |
 | CSS | Styling and responsive design |
 | localStorage | Storing habit data in the browser |
-| Vercel | Live deployment |
+
 
 ## 🎨 System Design
 
