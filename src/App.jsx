@@ -8,7 +8,7 @@ const CATEGORIES = {
   other: { label: "Other", color: "#94A3B8" },
 };
 
-const EMOJIS = ["💧","📚","🏃","🧘","🥗","💪","✍️","🎵","🌅","😴","🧠","💊","🚶","🎯","🔥"];
+const EMOJIS = ["💧","📚","🏃","🧘","🥗","💪","📝","🎵","🌅","😴","🧠","💊","🚶","🎯","🔥"];
 
 const QUOTES = [
   "Small steps every day lead to big results.",
