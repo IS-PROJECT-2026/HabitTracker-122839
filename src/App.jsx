@@ -4,7 +4,7 @@ const CATEGORIES = {
   health: { label: "Health", color: "#4CAF82" },
   fitness: { label: "Fitness", color: "#F5A623" },
   learning: { label: "Learning", color: "#60A5FA" },
-  mindset: { label: "Mental", color: "#C084FC" },
+  mindset: { label: "Mind", color: "#C084FC" },
   other: { label: "Other", color: "#94A3B8" },
 };
 
