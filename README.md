@@ -1,13 +1,12 @@
 # 📅 Daily Habit Tracker
 
 A simple and responsive web app that helps users track their daily habits and be more disciplined.
-
 The system allows users to add habits, mark them as complete, and track their progress over time. Habit data is saved locally, so no account or login is required.
 
-## 🌐 Live Deployment
+##  Live Deployment
 https://is-project-2026.github.io/HabitTracker-122839/
 
-## ✨ Features
+##  Features
 
 - Add and manage daily habits
 - Mark habits as complete
@@ -15,7 +14,7 @@ https://is-project-2026.github.io/HabitTracker-122839/
 - Save habit data using local storage
 - No login required
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -26,7 +25,7 @@ https://is-project-2026.github.io/HabitTracker-122839/
 | localStorage | Storing habit data in the browser |
 
 
-## 🎨 System Design
+##  System Design
 
 The application uses a simple and clean interface to make habit tracking easy.
 
