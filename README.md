@@ -1,6 +1,6 @@
 # 📅 Daily Habit Tracker
 
-A simple and responsive web application that helps users track their daily habits and maintain consistency.
+A simple and responsive web app that helps users track their daily habits and be more disciplined.
 
 The system allows users to add habits, mark them as complete, and track their progress over time. Habit data is saved locally, so no account or login is required.
 
